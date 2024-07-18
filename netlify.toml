@@ -1,0 +1,3 @@
+[build]
+base = "sbaxAI"
+command = "streamlit run main.py"
